@@ -6,9 +6,10 @@
     "configurations": [
         {
             "type": "ce",
-            "request": "withar
-            "781787218": "Launch Chrome against localhost",
-        "url": "http://locallt:500",
+            "request": "Withdrawal"
+            
+             "785991555": "Launch Chrome against localhost",
+        "url": "https://kuex.com/h5/#/withdrawal"
             "webRoot": "${workspaceFolder}"
         }
     ]
